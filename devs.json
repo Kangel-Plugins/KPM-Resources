@@ -1,0 +1,134 @@
+{
+    "1863611627": {
+        "username": "ArThirtyFour",
+        "desc": {
+            "ru": "Основатель проекта KPM",
+            "en": "Founder of the KPM project",
+            "uk": "Засновник проєкту KPM",
+            "de": "Gründer des KPM-Projekts",
+            "es": "Fundador del proyecto KPM",
+            "fr": "Fondateur du projet KPM",
+            "pt": "Fundador do projeto KPM"
+        },
+        "channel": {
+            "username": "KangelPlugins",
+            "text": {
+                "ru": "Мой тгк с плагинами и т.д",
+                "en": "My tgk with plugins etc",
+                "uk": "Мій тгк з плагінами тощо",
+                "de": "Mein TGK mit Plugins usw",
+                "es": "Mi tgk con plugins etc",
+                "fr": "Mon tgk avec des plugins etc",
+                "pt": "Meu tgk com plugins etc"
+            }
+        }
+    },
+    "8079608100": {
+        "username": "exorned",
+        "desc": {
+            "ru": "Тестировщик/Разраб и просто хороший чел",
+            "en": "Tester/Developer and just a good guy",
+            "uk": "Тестувальник/Розробник і просто хороша людина",
+            "de": "Tester/Entwickler und einfach ein guter Typ",
+            "es": "Probador/Desarrollador y simplemente una buena persona",
+            "fr": "Testeur/Développeur et juste une bonne personne",
+            "pt": "Testador/Desenvolvedor e apenas uma boa pessoa"
+        },
+        "channel": {
+            "username": "ExerealPlugins",
+            "text": {
+                "ru": "Его Telegram канал и т.д",
+                "en": "His Telegram channel etc",
+                "uk": "Його Telegram канал тощо",
+                "de": "Sein Telegram-Kanal usw",
+                "es": "Su canal de Telegram etc",
+                "fr": "Son canal Telegram etc",
+                "pt": "Seu canal do Telegram etc"
+            }
+        }
+    },
+    "420220972": {
+        "username": "KUNSESHBOY",
+        "desc": {
+            "ru": "Тестировщик и первый в команде",
+            "en": "Tester and the first in the team",
+            "uk": "Тестувальник і перший у команді",
+            "de": "Tester und der erste im Team",
+            "es": "Probador y el primero del equipo",
+            "fr": "Testeur et le premier de l'équipe",
+            "pt": "Testador e o primeiro da equipe"
+        }
+    },
+    "7188906494": {
+        "username": "nothalk",
+        "desc": {
+            "ru": "Разраб KPM и спс за UI",
+            "en": "KPM developer and thanks for the UI",
+            "uk": "Розробник KPM і дякую за UI",
+            "de": "KPM-Entwickler und danke für die UI",
+            "es": "Desarrollador de KPM y gracias por la UI",
+            "fr": "Développeur de KPM et merci pour l'UI",
+            "pt": "Desenvolvedor do KPM e obrigado pela UI"
+        },
+        "channel": {
+            "username": "RoflPlugins",
+            "text": {
+                "ru": "Канал с Custom Profile",
+                "en": "Channel with Custom Profile",
+                "uk": "Канал з Custom Profile",
+                "de": "Kanal mit Custom Profile",
+                "es": "Canal con Custom Profile",
+                "fr": "Chaîne avec Custom Profile",
+                "pt": "Canal com Custom Profile"
+            }
+        }
+    },
+    "1302340931": {
+        "username": "tecxz5",
+        "desc": {
+            "ru": "Разраб KPM , завез GitVerse",
+            "en": "KPM developer, brought GitVerse",
+            "uk": "Розробник KPM, завіз GitVerse",
+            "de": "KPM-Entwickler, hat GitVerse gebracht",
+            "es": "Desarrollador de KPM, trajo GitVerse",
+            "fr": "Développeur de KPM, a apporté GitVerse",
+            "pt": "Desenvolvedor do KPM, trouxe GitVerse"
+        },
+        "channel": {
+            "username": "NonPlugins",
+            "text": {
+                "ru": "Канал с неПлагинами",
+                "en": "Channel with nonPlugins",
+                "uk": "Канал з неПлагінами",
+                "de": "Kanal mit Nicht-Plugins",
+                "es": "Canal con no-plugins",
+                "fr": "Canal de nonPlugins",
+                "pt": "Canal de nãoPlugins"
+            }
+        }
+    },
+    "929185014": {
+        "username": "itNotMax",
+        "desc": {
+            "ru": "Кто-то в КПМ",
+            "en": "Someone in KPM",
+            "uk": "Хтось у KPM",
+            "de": "Jemand bei KPM",
+            "es": "Alguien en KPM",
+            "fr": "Quelqu’un chez KPM",
+            "pt": "Alguém no KPM"
+        },
+        "channel": {
+            "username": "MaxExteraPlugins",
+            "text": {
+                "ru": "Max - не мессенджер",
+                "en": "Max - not a messenger",
+                "uk": "Max - не месенджер",
+                "de": "Max - kein Messenger",
+                "es": "Max - no es un mensajero",
+                "fr": "Max - pas une messagerie",
+                "pt": "Max - não é um mensageiro"
+            }
+        }
+    }
+}
