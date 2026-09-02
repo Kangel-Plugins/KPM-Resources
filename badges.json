@@ -94,18 +94,5 @@
             "fr": "Canal du développeur KPM",
             "pt": "Canal do desenvolvedor do KPM"
         }
-    },
-    
-    "400216230": {
-        "documentId": 5296661644905035252,
-        "text": {
-            "ru": "Блять , кто такой этот ваш пакет!?",
-            "en": "Fuck, who the hell is this 'packit' of yours!?",
-            "uk": "Блять, хто такий цей ваш пакет!?",
-            "de": "Verdammt, wer zur Hölle ist dieses 'packit' von euch!?",
-            "es": "¡Joder! ¿Quién es este 'packit' de ustedes!?",
-            "fr": "Merde, c'est qui, votre 'packit' !?",
-            "pt": "Porra, quem é esse tal 'packit' de vocês!?"
-        }
     }
 }
