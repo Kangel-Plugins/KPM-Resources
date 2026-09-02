@@ -47,18 +47,6 @@
             "pt": "Trabalha, querido ChatGPT, força aí, Gemini"
         }
     },
-    "8079608100": {
-        "documentId": 5346229158093557889,
-        "text": {
-            "ru": "Завали ебало душнила",
-            "en": "Shut the hell up, buzzkill",
-            "uk": "Завали пельку, душнило",
-            "de": "Halt die Klappe, Nervensäge",
-            "es": "Cállate, pesado",
-            "fr": "Ferme-la, casse-pieds",
-            "pt": "Cala a boca, chato"
-        }
-    },
     "1302340931": {
         "documentId": 5265155869355581523,
         "text": {
@@ -93,19 +81,6 @@
             "es": "Canal del desarrollador de KPM",
             "fr": "Canal du développeur KPM",
             "pt": "Canal do desenvolvedor do KPM"
-        }
-    },
-    
-    "400216230": {
-        "documentId": 5296661644905035252,
-        "text": {
-            "ru": "Блять , кто такой этот ваш пакет!?",
-            "en": "Fuck, who the hell is this 'packit' of yours!?",
-            "uk": "Блять, хто такий цей ваш пакет!?",
-            "de": "Verdammt, wer zur Hölle ist dieses 'packit' von euch!?",
-            "es": "¡Joder! ¿Quién es este 'packit' de ustedes!?",
-            "fr": "Merde, c'est qui, votre 'packit' !?",
-            "pt": "Porra, quem é esse tal 'packit' de vocês!?"
         }
     }
 }
