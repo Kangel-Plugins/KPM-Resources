@@ -23,27 +23,27 @@
             }
         }
     },
-    "8079608100": {
-        "username": "exorned",
+    "1431579375": {
+        "username": "sterepando",
         "desc": {
-            "ru": "Тестировщик/Разраб и просто хороший чел",
-            "en": "Tester/Developer and just a good guy",
-            "uk": "Тестувальник/Розробник і просто хороша людина",
-            "de": "Tester/Entwickler und einfach ein guter Typ",
-            "es": "Probador/Desarrollador y simplemente una buena persona",
-            "fr": "Testeur/Développeur et juste une bonne personne",
-            "pt": "Testador/Desenvolvedor e apenas uma boa pessoa"
+            "ru": "нищий свага хочет денег, покорми его",
+            "en": "poor swaga wants money, feed him",
+            "uk": "злиденний свага хоче грошей, нагодуй його",
+            "de": "armer Swaga will Geld, füttere ihn",
+            "es": "swaga pobre quiere dinero, aliméntalo",
+            "fr": "le pauvre swaga veut de l'argent, nourris-le",
+            "pt": "swaga pobre quer dinheiro, alimente-o"
         },
         "channel": {
-            "username": "ExerealPlugins",
+            "username": "swagnonher",
             "text": {
-                "ru": "Его Telegram канал и т.д",
-                "en": "His Telegram channel etc",
-                "uk": "Його Telegram канал тощо",
-                "de": "Sein Telegram-Kanal usw",
-                "es": "Su canal de Telegram etc",
-                "fr": "Son canal Telegram etc",
-                "pt": "Seu canal do Telegram etc"
+                "ru": "Кручу бурмалду свага каждый день в 3 и выпускаю ратки",
+                "en": "Spinning swaga burmalda every day at 3 and releasing rats",
+                "uk": "Кручу бурмалду свага щодня о 3 і випускаю ратки",
+                "de": "Ich drehe Swaga Burmalda jeden Tag um 3 und veröffentliche Rats",
+                "es": "Giro burmalda swaga todos los días a las 3 y lanzo rats",
+                "fr": "Je tourne burmalda swaga tous les jours à 3h et sors des rats",
+                "pt": "Giro burmalda swaga todo dia às 3 e solto rats"
             }
         }
     },
