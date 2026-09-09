@@ -23,6 +23,18 @@
             "pt": "Rofl?"
         }
     },
+    "1431579375": {
+        "documentId": 5244692197026084484,
+        "text": {
+            "ru": "нищий свага хочет денег, покорми его",
+            "en": "poor swaga wants money, feed him",
+            "uk": "злиденний свага хоче грошей, нагодуй його",
+            "de": "armer Swaga will Geld, füttere ihn",
+            "es": "swaga pobre quiere dinero, aliméntalo",
+            "fr": "le pauvre swaga veut de l'argent, nourris-le",
+            "pt": "swaga pobre quer dinheiro, alimente-o"
+        }
+    },
     "420220972": {
         "documentId": 5391256882260254033,
         "text": {
@@ -69,30 +81,6 @@
             "es": "Foro oficial de KPM",
             "fr": "Forum officiel KPM",
             "pt": "Fórum oficial do KPM"
-        }
-    },
-    "-1002340771630": {
-        "documentId": 5366313992832696286,
-        "text": {
-            "ru": "Канал разработчика KPM",
-            "en": "KPM developer channel",
-            "uk": "Канал розробника KPM",
-            "de": "KPM-Entwicklerkanal",
-            "es": "Canal del desarrollador de KPM",
-            "fr": "Canal du développeur KPM",
-            "pt": "Canal do desenvolvedor do KPM"
-        }
-    },
-    "1431579375": {
-        "documentId": 5244692197026084484,
-        "text": {
-            "ru": "нищий свага хочет денег, покорми его",
-            "en": "poor swaga wants money, feed him",
-            "uk": "злиденний свага хоче грошей, нагодуй його",
-            "de": "armer Swaga will Geld, füttere ihn",
-            "es": "swaga pobre quiere dinero, aliméntalo",
-            "fr": "le pauvre swaga veut de l'argent, nourris-le",
-            "pt": "swaga pobre quer dinheiro, alimente-o"
         }
     }
 }
