@@ -59,6 +59,30 @@
             "pt": "Testador e o primeiro da equipe"
         }
     },
+    "5069858266": {
+        "username": "Darksourse399",
+        "desc": {
+            "ru": "Тестировщик Амечанят",
+            "en": "Tester of Amechanyat",
+            "uk": "Тестувальник Амечанят",
+            "de": "Tester von Amechanyat",
+            "es": "Probador de Amechanyat",
+            "fr": "Testeur d'Amechanyat",
+            "pt": "Testador de Amechanyat"
+        },
+        "channel": {
+            "username": "logicPlugins",
+            "text": {
+                "ru": "Посты раз в сто лет да",
+                "en": "Posts once in a hundred years yeah",
+                "uk": "Пости раз на сто років так",
+                "de": "Posts einmal alle hundert Jahre ja",
+                "es": "Posts una vez cada cien años sí",
+                "fr": "Des posts une fois tous les cent ans oui",
+                "pt": "Posts uma vez a cada cem anos sim"
+            }
+        }
+    },
     "7188906494": {
         "username": "nothalk",
         "desc": {
