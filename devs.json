@@ -8,7 +8,8 @@
             "de": "Gründer des KPM-Projekts",
             "es": "Fundador del proyecto KPM",
             "fr": "Fondateur du projet KPM",
-            "pt": "Fundador do projeto KPM"
+            "pt": "Fundador do projeto KPM",
+            "zh": "KPM 项目创始人"
         },
         "channel": {
             "username": "KangelPlugins",
@@ -19,7 +20,8 @@
                 "de": "Mein TGK mit Plugins usw",
                 "es": "Mi tgk con plugins etc",
                 "fr": "Mon tgk avec des plugins etc",
-                "pt": "Meu tgk com plugins etc"
+                "pt": "Meu tgk com plugins etc",
+                "zh": "我的 TG 频道，有插件等等"
             }
         }
     },
@@ -32,7 +34,8 @@
             "de": "armer Swaga will Geld, füttere ihn",
             "es": "swaga pobre quiere dinero, aliméntalo",
             "fr": "le pauvre swaga veut de l'argent, nourris-le",
-            "pt": "swaga pobre quer dinheiro, alimente-o"
+            "pt": "swaga pobre quer dinheiro, alimente-o",
+            "zh": "穷光蛋swaga想要钱，喂喂他吧"
         },
         "channel": {
             "username": "swagnonher",
@@ -43,7 +46,8 @@
                 "de": "Ich drehe Swaga Burmalda jeden Tag um 3 und veröffentliche Rats",
                 "es": "Giro burmalda swaga todos los días a las 3 y lanzo rats",
                 "fr": "Je tourne burmalda swaga tous les jours à 3h et sors des rats",
-                "pt": "Giro burmalda swaga todo dia às 3 e solto rats"
+                "pt": "Giro burmalda swaga todo dia às 3 e solto rats",
+                "zh": "每天3点转 swaga burmalda 并发布 rats"
             }
         }
     },
@@ -56,7 +60,8 @@
             "de": "Tester und der erste im Team",
             "es": "Probador y el primero del equipo",
             "fr": "Testeur et le premier de l'équipe",
-            "pt": "Testador e o primeiro da equipe"
+            "pt": "Testador e o primeiro da equipe",
+            "zh": "测试员，团队第一人"
         }
     },
     "5069858266": {
@@ -68,7 +73,8 @@
             "de": "Tester von Amechanyat",
             "es": "Probador de Amechanyat",
             "fr": "Testeur d'Amechanyat",
-            "pt": "Testador de Amechanyat"
+            "pt": "Testador de Amechanyat",
+            "zh": "Amechanyat 的测试员"
         },
         "channel": {
             "username": "logicPlugins",
@@ -79,7 +85,8 @@
                 "de": "Posts einmal alle hundert Jahre ja",
                 "es": "Posts una vez cada cien años sí",
                 "fr": "Des posts une fois tous les cent ans oui",
-                "pt": "Posts uma vez a cada cem anos sim"
+                "pt": "Posts uma vez a cada cem anos sim",
+                "zh": "一百年才发一次帖子"
             }
         }
     },
@@ -92,7 +99,8 @@
             "de": "KPM-Entwickler und danke für die UI",
             "es": "Desarrollador de KPM y gracias por la UI",
             "fr": "Développeur de KPM et merci pour l'UI",
-            "pt": "Desenvolvedor do KPM e obrigado pela UI"
+            "pt": "Desenvolvedor do KPM e obrigado pela UI",
+            "zh": "KPM 开发者，感谢 UI"
         },
         "channel": {
             "username": "RoflPlugins",
@@ -103,7 +111,8 @@
                 "de": "Kanal mit Custom Profile",
                 "es": "Canal con Custom Profile",
                 "fr": "Chaîne avec Custom Profile",
-                "pt": "Canal com Custom Profile"
+                "pt": "Canal com Custom Profile",
+                "zh": "Custom Profile 频道"
             }
         }
     },
@@ -116,7 +125,8 @@
             "de": "KPM-Entwickler, hat GitVerse gebracht",
             "es": "Desarrollador de KPM, trajo GitVerse",
             "fr": "Développeur de KPM, a apporté GitVerse",
-            "pt": "Desenvolvedor do KPM, trouxe GitVerse"
+            "pt": "Desenvolvedor do KPM, trouxe GitVerse",
+            "zh": "KPM 开发者，引入了 GitVerse"
         },
         "channel": {
             "username": "NonPlugins",
@@ -127,7 +137,8 @@
                 "de": "Kanal mit Nicht-Plugins",
                 "es": "Canal con no-plugins",
                 "fr": "Canal de nonPlugins",
-                "pt": "Canal de nãoPlugins"
+                "pt": "Canal de nãoPlugins",
+                "zh": "非插件频道"
             }
         }
     },
@@ -140,7 +151,8 @@
             "de": "Jemand bei KPM",
             "es": "Alguien en KPM",
             "fr": "Quelqu’un chez KPM",
-            "pt": "Alguém no KPM"
+            "pt": "Alguém no KPM",
+            "zh": "KPM 的某个人"
         },
         "channel": {
             "username": "MaxExteraPlugins",
@@ -151,7 +163,8 @@
                 "de": "Max - kein Messenger",
                 "es": "Max - no es un mensajero",
                 "fr": "Max - pas une messagerie",
-                "pt": "Max - não é um mensageiro"
+                "pt": "Max - não é um mensageiro",
+                "zh": "Max —— 不是即时通讯软件"
             }
         }
     }

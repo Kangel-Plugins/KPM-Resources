@@ -8,7 +8,8 @@
             "de": "Der Autor hat gerülpst. Mehr gibt's nicht.",
             "es": "El autor eructó. Y eso fue todo.",
             "fr": "L'auteur a roté. Et c'est tout.",
-            "pt": "O autor arrotou. E foi só isso."
+            "pt": "O autor arrotou. E foi só isso.",
+            "zh": "作者打了个嗝，就这样。"
         }
     },
     "7188906494": {
@@ -20,7 +21,8 @@
             "de": "Rofl?",
             "es": "Rofl?",
             "fr": "Rofl?",
-            "pt": "Rofl?"
+            "pt": "Rofl?",
+            "zh": "笑死？"
         }
     },
     "1431579375": {
@@ -32,7 +34,8 @@
             "de": "armer Swaga will Geld, füttere ihn",
             "es": "swaga pobre quiere dinero, aliméntalo",
             "fr": "le pauvre swaga veut de l'argent, nourris-le",
-            "pt": "swaga pobre quer dinheiro, alimente-o"
+            "pt": "swaga pobre quer dinheiro, alimente-o",
+            "zh": "穷光蛋swaga想要钱，喂喂他吧"
         }
     },
     "420220972": {
@@ -44,7 +47,8 @@
             "de": "KPM-Tester №1",
             "es": "Tester de KPM №1",
             "fr": "Testeur KPM №1",
-            "pt": "Tester do KPM №1"
+            "pt": "Tester do KPM №1",
+            "zh": "KPM 测试员 №1"
         }
     },
     "8229204725": {
@@ -56,7 +60,8 @@
             "de": "Arbeite, liebes ChatGPT, streng dich an, Gemini",
             "es": "Trabaja, querido ChatGPT, esfuérzate, Gemini",
             "fr": "Travaille, cher ChatGPT, au boulot, Gemini",
-            "pt": "Trabalha, querido ChatGPT, força aí, Gemini"
+            "pt": "Trabalha, querido ChatGPT, força aí, Gemini",
+            "zh": "干活吧亲爱的 ChatGPT，加油 Gemini"
         }
     },
     "1302340931": {
@@ -68,7 +73,8 @@
             "de": "Die Große-Fisch-Theorie",
             "es": "La teoría del pez grande",
             "fr": "La théorie du grand poisson",
-            "pt": "A teoria do peixe grande"
+            "pt": "A teoria do peixe grande",
+            "zh": "大鱼理论"
         }
     },
     "-1004357768423": {
@@ -80,7 +86,8 @@
             "de": "KPM-Offizielles Forum",
             "es": "Foro oficial de KPM",
             "fr": "Forum officiel KPM",
-            "pt": "Fórum oficial do KPM"
+            "pt": "Fórum oficial do KPM",
+            "zh": "KPM 官方论坛"
         }
     }
 }
