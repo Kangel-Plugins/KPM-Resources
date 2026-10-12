@@ -38,6 +38,19 @@
             "zh": "穷光蛋swaga想要钱，喂喂他吧"
         }
     },
+    "650700031": {
+        "documentId": 5318783359294382499,
+        "text": {
+            "ru": "босс CVE-2026-ШАХЕД",
+            "en": "boss CVE-2026-SHAHED",
+            "uk": "бос CVE-2026-ШАХЕД",
+            "de": "Boss CVE-2026-SHAHED",
+            "es": "jefe CVE-2026-SHAHED",
+            "fr": "boss CVE-2026-SHAHED",
+            "pt": "chefe CVE-2026-SHAHED",
+            "zh": "Boss CVE-2026-SHAHED"
+        }
+    },
     "420220972": {
         "documentId": 5391256882260254033,
         "text": {
@@ -71,7 +84,7 @@
             "en": "Big Fish Theory",
             "uk": "Теорія великої риби",
             "de": "Die Große-Fisch-Theorie",
-            "es": "La teoría del pez grande",
+            "es": "La теория del pez grande",
             "fr": "La théorie du grand poisson",
             "pt": "A teoria do peixe grande",
             "zh": "大鱼理论"
