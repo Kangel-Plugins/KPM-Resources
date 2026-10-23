@@ -90,32 +90,6 @@
             }
         }
     },
-    "7188906494": {
-        "username": "nothalk",
-        "desc": {
-            "ru": "Разраб KPM и спс за UI",
-            "en": "KPM developer and thanks for the UI",
-            "uk": "Розробник KPM і дякую за UI",
-            "de": "KPM-Entwickler und danke für die UI",
-            "es": "Desarrollador de KPM y gracias por la UI",
-            "fr": "Développeur de KPM et merci pour l'UI",
-            "pt": "Desenvolvedor do KPM e obrigado pela UI",
-            "zh": "KPM 开发者，感谢 UI"
-        },
-        "channel": {
-            "username": "RoflPlugins",
-            "text": {
-                "ru": "Канал с Custom Profile",
-                "en": "Channel with Custom Profile",
-                "uk": "Канал з Custom Profile",
-                "de": "Kanal mit Custom Profile",
-                "es": "Canal con Custom Profile",
-                "fr": "Chaîne avec Custom Profile",
-                "pt": "Canal com Custom Profile",
-                "zh": "Custom Profile 频道"
-            }
-        }
-    },
     "1302340931": {
         "username": "tecxz5",
         "desc": {
