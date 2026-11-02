@@ -116,6 +116,58 @@
             }
         }
     },
+    "650700031": {
+        "username": "dekma0091",
+        "desc": {
+            "ru": "sudo opsec KPM",
+            "en": "sudo opsec KPM",
+            "uk": "sudo opsec KPM",
+            "de": "sudo opsec KPM",
+            "es": "sudo opsec KPM",
+            "fr": "sudo opsec KPM",
+            "pt": "sudo opsec KPM",
+            "zh": "sudo KPM 行动安全"
+        },
+        "channel": {
+            "username": "DefinitelyNotDekma",
+            "text": {
+                "ru": "НеДекма",
+                "en": "Not Dekma",
+                "uk": "НеДекма",
+                "de": "Nicht Dekma",
+                "es": "No es Dekma",
+                "fr": "Pas Dekma",
+                "pt": "Não é Dekma",
+                "zh": "不是 Dekma"
+            }
+        }
+    },
+    "8624589664": {
+        "username": "InLoveWithUmi",
+        "desc": {
+            "ru": "Тестировщик KPM",
+            "en": "KPM tester",
+            "uk": "Тестувальник KPM",
+            "de": "KPM-Tester",
+            "es": "Probador de KPM",
+            "fr": "Testeur de KPM",
+            "pt": "Testador do KPM",
+            "zh": "KPM 测试员"
+        },
+        "channel": {
+            "username": "InLoveWithUmiWorkshop",
+            "text": {
+                "ru": "я",
+                "en": "me",
+                "uk": "я",
+                "de": "ich",
+                "es": "yo",
+                "fr": "moi",
+                "pt": "eu",
+                "zh": "我"
+            }
+        }
+    },
     "8229204725": {
         "username": "yaksflash",
         "desc": {
