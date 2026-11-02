@@ -89,5 +89,18 @@
             "pt": "Fórum oficial do KPM",
             "zh": "KPM 官方论坛"
         }
+    },
+    "1602207467": {
+        "documentId": 5298550386838242865,
+        "text": {
+            "ru": "привет вц дай денег",
+            "en": "hello vc give money",
+            "uk": "привіт вц дай грошей",
+            "de": "Hallo VC gib Geld",
+            "es": "hola vc dame dinero",
+            "fr": "salut vc donne de l'argent",
+            "pt": "olá vc me dá dinheiro",
+            "zh": "你好vc给点钱"
+        }
     }
 }
