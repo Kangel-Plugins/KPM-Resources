@@ -167,31 +167,5 @@
                 "zh": "我"
             }
         }
-    },
-    "8229204725": {
-        "username": "yaksflash",
-        "desc": {
-            "ru": "Кто-то в КПМ",
-            "en": "Someone in KPM",
-            "uk": "Хтось у KPM",
-            "de": "Jemand bei KPM",
-            "es": "Alguien en KPM",
-            "fr": "Quelqu’un chez KPM",
-            "pt": "Alguém no KPM",
-            "zh": "KPM 的某个人"
-        },
-        "channel": {
-            "username": "MaxExteraPlugins",
-            "text": {
-                "ru": "Max - не мессенджер",
-                "en": "Max - not a messenger",
-                "uk": "Max - не месенджер",
-                "de": "Max - kein Messenger",
-                "es": "Max - no es un mensajero",
-                "fr": "Max - pas une messagerie",
-                "pt": "Max - não é um mensageiro",
-                "zh": "Max —— 不是即时通讯软件"
-            }
-        }
     }
 }
